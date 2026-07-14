@@ -244,6 +244,7 @@
 ◆ logname : Print user's login name. This is part of "am-utils" suite.
 ◆ look : Beginning with a given string. This is part of "am-utils" suite.
 ◆ ls : List directory contents. This is part of "am-utils" suite.
+◆ ltx-desktop : An open-source desktop app for generating videos with LTX models.
 ◆ mages : Multiplatform Matrix chat client (experimental CMP+rust app).
 ◆ mariokart64recomp : Unofficial, a native port of MarioKart 64, statically recompiled.
 ◆ mawk : And text processing language. This is part of "am-utils" suite.
@@ -259,6 +260,7 @@
 ◆ modemu2k : A Hayes AT-command modem emulator that bridges a serial interface to TCP/Telnet.
 ◆ moon-lander : Moon Lander is a 2D game of gravity.  Land your ship on the lading pad.
 ◆ more : Display the contents of a file in a terminal. This is part of "am-utils" suite.
+◆ motrix-next : A full-featured download manager rebuilt from the ground up.
 ◆ mount : Mount a filesystem. This is part of "am-utils" suite.
 ◆ mousai : Unofficial. Application for identifying songs using libre utilities.
 ◆ music-assistant : The desktop companion app for Music Assistant.
@@ -281,6 +283,8 @@
 ◆ nproc : Print the number of processing units available. This is part of "am-utils" suite.
 ◆ nugget-doom-enhanced : Unofficial, a Doom source port forked from Woof! with additional features.
 ◆ numfmt : From/to human-readable strings. This is part of "am-utils" suite.
+◆ nvim : NeoVim, Vim fork focused on extensibility and usability.
+◆ nvim-nightly : NeoVim, Vim fork, the most recent development build.
 ◆ nxengine-evo-enhanced : Unofficial, a somewhat upgraded/refactored version of NXEngine.
 ◆ objcopy : Translate object files. This is part of "am-utils" suite.
 ◆ objdump : From object files. This is part of "am-utils" suite.
@@ -291,6 +295,7 @@
 ◆ omniget : Media downloader from various websites.
 ◆ openclaw : Unofficial, reimplementation of Captain Claw (1997) platformer.
 ◆ opencode : The open source coding agent.
+◆ opencode-cli : Unofficial AppImage of the opencode CLI utility. The open source coding agent.
 ◆ opencode-enhanced : Unofficial, improved AppImage of opencode, the open source coding agent.
 ◆ openjazz : Unofficial, open-source version of the classic Jazz Jackrabbit™ games.
 ◆ openlara : Unofficial, classic Tomb Raider open-source engine.
